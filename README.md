@@ -1,5 +1,4 @@
 technologies - 
-    HTML,
-    CSS
+    HTML/CSS, 
 methotology -
     BEM
