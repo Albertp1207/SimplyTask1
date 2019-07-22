@@ -26,7 +26,6 @@ body,p,button {
     height: 100%;
     z-index: 0;
     background-image: linear-gradient( rgba(243, 243, 243, 0.836), rgba(145, 145, 145, 0.342));
-    /* background-color: rgba(224, 224, 224, 0.555); */
 }
 /* /\   \/ */
 .main-header__nav-block, .main-header__title-block, .main-header__advantages-block {
