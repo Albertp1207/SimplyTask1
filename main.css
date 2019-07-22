@@ -141,9 +141,13 @@ body,p,button {
 
 /* footer */
 
-.footer-advantages {
-    padding-top: 30px;
+body {
+    min-height: 100vh;
+    position: relative;
 }
+/* .footer-advantages {
+    padding-top: 30px;
+} */
 .footer {
     position: absolute;
     width: 100%;
